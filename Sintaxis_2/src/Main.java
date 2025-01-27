@@ -2,11 +2,15 @@ import java.util.Random;
 
 //clase principal en java
 // 1iportaciones
- import java.util.Random;
+ //import java.util.Random;
+//import java.util.Scanner;
 import java.util.Scanner;
 
 public class Main {
- //metodo main
+    private static Scanner sc;
+    // private static Random Sc;
+
+    //metodo main
     public static void main(String[] args) {
 //      2. Cadenas con Java
 //        System.out.printf("HELLO WORLD");
@@ -66,21 +70,18 @@ public class Main {
 //
 
         // 5, Boolean, operadores logicos y de comparacion
-        System.out.println(10 >  9); //true
-        System.out.println(10 == 9); //false
-        System.out.println(10 <  9); //false
-        System.out.println(10 >= 9); //true
-        System.out.println(10 <= 9); //false
-        System.out.println(10 != 9); //true
-
-
-      int  x= 3;
-      System.out.println(x< 5 && x>10);
-        System.out.println(x< 5 || x>10);
-        System.out.println(!(x< 5 && x>10));
-
-
-
+//        System.out.println(10 >  9); //true
+//        System.out.println(10 == 9); //false
+//        System.out.println(10 <  9); //false
+//        System.out.println(10 >= 9); //true
+//        System.out.println(10 <= 9); //false
+//        System.out.println(10 != 9); //true
+//
+//
+//      int  x= 3;
+//      System.out.println(x< 5 && x>10);
+//        System.out.println(x< 5 || x>10);
+//        System.out.println(!(x< 5 && x>10));
 
 
 
@@ -88,8 +89,12 @@ public class Main {
 
 
 
+            }
+        }
 
 
-    }
 
-}
+
+
+
+
