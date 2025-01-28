@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class practica2 {
+public class ejercisio1 {
     public static void main(String[] args) {
         String contrasenaGuardada = "MiContraseña123";
         Scanner sc = new Scanner(System.in);
