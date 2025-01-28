@@ -10,10 +10,10 @@ public class ejercicio3 {
             System.out.println("Entrada gratis.");
         } else if (edad <= 18) {
             System.out.println("El precio de la entrada es $110");
-        }
-        else
-        {
+        } else {
             System.out.println("El precio de la entrada es $190");
         }
-}
 
+
+    }
+}
